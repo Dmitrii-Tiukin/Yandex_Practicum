@@ -17,3 +17,11 @@ Python, Pandas, Tableau.
 **Статус проекта**
 
 Завершен.
+
+**Ссылка на презентацию**
+
+https://disk.yandex.ru/i/fmLaBG5gt8L7WQ
+
+**Ссылка на дашборд в Tableau**
+
+https://public.tableau.com/app/profile/dmitry.tiukin/viz/Dashboard_1_16824628380170/Dashboard1
