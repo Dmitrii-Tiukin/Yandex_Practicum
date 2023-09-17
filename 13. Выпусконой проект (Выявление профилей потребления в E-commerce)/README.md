@@ -68,3 +68,11 @@ Python, Pandas, Matplotlib, Seaborn, Datetime, Scikit-learn  (StandardScaler, KM
 **Статус проекта:**
 
 Завершен.
+
+**Ссылка на презентацию**
+
+https://disk.yandex.ru/i/YO5g_0Du2Ezmsw
+
+**Ссылка на дашборд в Tableau**
+
+https://public.tableau.com/app/profile/dmitry.tiukin/viz/E-commerce_16842500422790/sheet1
