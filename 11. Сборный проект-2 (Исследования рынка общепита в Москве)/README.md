@@ -25,3 +25,7 @@ Python, Pandas, Seaborn, Plotly.
 **Статус проекта**
 
 Завершен.
+
+**Ссылка на презентацию**
+
+https://disk.yandex.ru/i/AqP27Kk_mNIDkw
